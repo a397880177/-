@@ -1,6 +1,6 @@
 {
   "wallpaper": "",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
+  "spider": "https://github.com/a397880177/-/blob/main/CustomSpider.jar",
   "lives": [
     {
       "group": "redirect",
@@ -14,10 +14,10 @@
     }
   ],
   "sites": [
-        {"key":"T4_bookreader","name":"T4ÓĞÉùĞ¡Ëµ","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
+        {"key":"T4_bookreader","name":"T4æœ‰å£°å°è¯´","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
    {
       "key": "A8",
-      "name": "A8Ó°ÊÓ",
+      "name": "A8å½±è§†",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -26,8 +26,8 @@
       "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
     },
     {
-      "key": "Õ¬¸¯APP",
-      "name": "Õ¬¸¯©§APP",
+      "key": "å®…è…APP",
+      "name": "å®…è…â”ƒAPP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -37,7 +37,7 @@
     },
     {
       "key": "csp_AppYsV2_YuMi",
-      "name": "YuMi¡îÓ°ÊÓ",
+      "name": "YuMiâ˜†å½±è§†",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
@@ -47,16 +47,16 @@
       "filterable": 1,
       "ext": "http://154.12.21.186/api.php/app/",
       "categories": [
-        "µçÓ°",
-        "µçÊÓ¾ç",
-        "×ÛÒÕ",
-        "¶¯Âş",
-        "¹ú²ú¾ç"
+        "ç”µå½±",
+        "ç”µè§†å‰§",
+        "ç»¼è‰º",
+        "åŠ¨æ¼«",
+        "å›½äº§å‰§"
       ]
     },
     {
       "key": "csp_AppYsV2_365",
-      "name": "365¡îÓ°ÊÓ",
+      "name": "365â˜†å½±è§†",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -66,7 +66,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "ÒôÀÖÊÓÆµØ­½Ó¿Ú",
+      "name": "éŸ³ä¹è§†é¢‘ä¸¨æ¥å£",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -74,48 +74,48 @@
       "filterable": 1
     },
     {
-      "key": "xml_´óÄ®",
-      "name": "´óÄ®¡î×ÊÔ´",
+      "key": "xml_å¤§æ¼ ",
+      "name": "å¤§æ¼ â˜†èµ„æº",
       "type": 1,
       "api": "https://damozy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "ÈÈÃÅ¶Ì¾ç",
-        "¶¯×÷Æ¬",
-        "Ï²¾çÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "ĞüÒÉÆ¬",
-        "·¸×ïÆª",
-        "Ææ»ÃÆ¬",
-        "Ã°ÏÕÆ¬",
-        "¼ÍÂ¼Æ¬",
-        "Â×ÀíÆ¬",
-        "¹ú²ú¾ç",
-        "Ïã¸Û¾ç",
-        "Ì¨Íå¾ç",
-        "º«¹ú¾ç",
-        "ÈÕ±¾¾ç",
-        "ÃÀ¹ú¾ç",
-        "Ì©¾ç",
-        "¶¯»­Æ¬",
-        "¹ú²ú¶¯Âş",
-        "ÈÕº«¶¯Âş",
-        "Å·ÃÀ¶¯Âş",
-        "´óÂ½×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "ÈÕº«×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ"
+        "çƒ­é—¨çŸ­å‰§",
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "çŠ¯ç½ªç¯‡",
+        "å¥‡å¹»ç‰‡",
+        "å†’é™©ç‰‡",
+        "çºªå½•ç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "å›½äº§å‰§",
+        "é¦™æ¸¯å‰§",
+        "å°æ¹¾å‰§",
+        "éŸ©å›½å‰§",
+        "æ—¥æœ¬å‰§",
+        "ç¾å›½å‰§",
+        "æ³°å‰§",
+        "åŠ¨ç”»ç‰‡",
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥éŸ©åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º"
       ]
     },
     {
       "key": "csp_Aid",
-      "name": "¼±¾ÈÖ¸ÄÏ",
+      "name": "æ€¥æ•‘æŒ‡å—",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 1,
@@ -128,53 +128,53 @@
       "jar": "https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"
     },
     {
-      "key": "xml_¿ì¿´",
-      "name": "?¿ì¿´¡î²É¼¯",
+      "key": "xml_å¿«çœ‹",
+      "name": "?å¿«çœ‹â˜†é‡‡é›†",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "ÍøÂçµçÓ°",
-        "¶¯»­µçÓ°",
-        "¶¯×÷Æ¬",
-        "Ã°ÏÕÆ¬",
-        "¾çÇéÆ¬",
-        "¼ÍÂ¼Æ¬",
-        "Ï²¾çÆ¬",
-        "Ææ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "ĞüÒÉÆ¬",
-        "¾ªã¤Æ¬",
-        "Õ½ÕùÆ¬",
-        "ÔÖÄÑÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "·¸×ïÆ¬",
-        "Â×ÀíÆ¬",
-        "¹ú²ú¾ç",
-        "¸ÛÌ¨¾ç",
-        "ÈÕ±¾¾ç",
-        "º«¹ú¾ç",
-        "Å·ÃÀ¾ç",
-        "ĞÂÂí¾ç",
-        "Ì©¾ç",
-        "ÆäËû¾ç",
-        "¹ú²ú×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "ÈÕ±¾×ÛÒÕ",
-        "º«¹ú×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ",
-        "¹ú²ú¶¯Âş",
-        "¸ÛÌ¨¶¯Âş",
-        "ÈÕ±¾¶¯Âş",
-        "Å·ÃÀ¶¯Âş"
+        "ç½‘ç»œç”µå½±",
+        "åŠ¨ç”»ç”µå½±",
+        "åŠ¨ä½œç‰‡",
+        "å†’é™©ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "çºªå½•ç‰‡",
+        "å–œå‰§ç‰‡",
+        "å¥‡å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "æƒŠæ‚šç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "ç¾éš¾ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "çŠ¯ç½ªç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "å›½äº§å‰§",
+        "æ¸¯å°å‰§",
+        "æ—¥æœ¬å‰§",
+        "éŸ©å›½å‰§",
+        "æ¬§ç¾å‰§",
+        "æ–°é©¬å‰§",
+        "æ³°å‰§",
+        "å…¶ä»–å‰§",
+        "å›½äº§ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥æœ¬ç»¼è‰º",
+        "éŸ©å›½ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º",
+        "å›½äº§åŠ¨æ¼«",
+        "æ¸¯å°åŠ¨æ¼«",
+        "æ—¥æœ¬åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«"
       ]
     },
     {
       "key": "ngapp",
-      "name": "ÄÏ¹ÏÓ°ÊÓ",
+      "name": "å—ç“œå½±è§†",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -183,76 +183,76 @@
       "ext": "http://tvbox.top/js/ng.js"
     },
     {
-      "key": "¼«ËÙ",
-      "name": "?¼«ËÙ©§×ÊÔ´",
+      "key": "æé€Ÿ",
+      "name": "?æé€Ÿâ”ƒèµ„æº",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "ÄÚµØ¾ç",
-        "Å·ÃÀ¾ç",
-        "ÈÕ¾ç",
-        "º«¾ç",
-        "Ì¨Íå¾ç",
-        "Ïã¸Û¾ç",
-        "ÂíÌ©¾ç",
-        "ĞüÒÉÆ¬",
-        "Ï²¾çÆ¬",
-        "¶¯×÷Æ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "·¸×ïÆ¬",
-        "¼ÇÂ¼Æ¬",
-        "¶¯»­Æ¬",
-        "ÈÕ±¾¶¯Âş",
-        "Å·ÃÀ¶¯Âş",
-        "ÖĞ¹ú¶¯Âş",
-        "´óÂ½×ÛÒÕ",
-        "ÈÕº«×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ",
-        "ÌåÓıÈüÊÂ"
+        "å†…åœ°å‰§",
+        "æ¬§ç¾å‰§",
+        "æ—¥å‰§",
+        "éŸ©å‰§",
+        "å°æ¹¾å‰§",
+        "é¦™æ¸¯å‰§",
+        "é©¬æ³°å‰§",
+        "æ‚¬ç–‘ç‰‡",
+        "å–œå‰§ç‰‡",
+        "åŠ¨ä½œç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "çŠ¯ç½ªç‰‡",
+        "è®°å½•ç‰‡",
+        "åŠ¨ç”»ç‰‡",
+        "æ—¥æœ¬åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "ä¸­å›½åŠ¨æ¼«",
+        "å¤§é™†ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º",
+        "ä½“è‚²èµ›äº‹"
       ]
     },
     {
-      "key": "xml_Çá¼ò",
-      "name": "Çá¼ò¡î²É¼¯",
+      "key": "xml_è½»ç®€",
+      "name": "è½»ç®€â˜†é‡‡é›†",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "µçÓ°",
-        "µçÊÓ¾ç",
-        "×ÛÒÕ",
-        "¶¯Âş"
+        "ç”µå½±",
+        "ç”µè§†å‰§",
+        "ç»¼è‰º",
+        "åŠ¨æ¼«"
       ]
     },
     {
-      "key": "xml_Ã¨·Å",
-      "name": "Ã¨·Å¡î²É¼¯",
+      "key": "xml_çŒ«æ”¾",
+      "name": "çŒ«æ”¾â˜†é‡‡é›†",
       "type": 1,
       "api": "https://www.mervod.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "µçÓ°",
-        "Á¬Ğø¾ç",
-        "×ÛÒÕ",
-        "¶¯Âş",
-        "ÉÙ¶ù"
+        "ç”µå½±",
+        "è¿ç»­å‰§",
+        "ç»¼è‰º",
+        "åŠ¨æ¼«",
+        "å°‘å„¿"
       ]
     },
     {
       "key": "jszy",
-      "name": "¼«ËÙ?²É¼¯",
+      "name": "æé€Ÿ?é‡‡é›†",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
       "playUrl": "https://k.playerla.com/?url=",
@@ -261,34 +261,34 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "ÄÚµØ¾ç",
-        "¶¯»­Æ¬",
-        "´óÂ½×ÛÒÕ"
+        "å†…åœ°å‰§",
+        "åŠ¨ç”»ç‰‡",
+        "å¤§é™†ç»¼è‰º"
       ]
     },
     {
-      "key": "xml_ÌÚÑ¶²É¼¯",
-      "name": "ÌÚÑ¶²É¼¯",
+      "key": "xml_è…¾è®¯é‡‡é›†",
+      "name": "è…¾è®¯é‡‡é›†",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-      "playUrl": "parse:¹Ù½â",
+      "playUrl": "parse:å®˜è§£",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "xml_ÆæÒÕ²É¼¯",
-      "name": "ÆæÒÕ²É¼¯",
+      "key": "xml_å¥‡è‰ºé‡‡é›†",
+      "name": "å¥‡è‰ºé‡‡é›†",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-      "playUrl": "parse:¹Ù½â",
+      "playUrl": "parse:å®˜è§£",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "xml_ÓÅ¿á²É¼¯",
-      "name": "ÓÅ¿á²É¼¯",
+      "key": "xml_ä¼˜é…·é‡‡é›†",
+      "name": "ä¼˜é…·é‡‡é›†",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
       "playUrl": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
@@ -297,18 +297,18 @@
       "filterable": 1
     },
     {
-      "key": "xml_Ã¢¹û²É¼¯",
-      "name": "Ã¢¹û²É¼¯",
+      "key": "xml_èŠ’æœé‡‡é›†",
+      "name": "èŠ’æœé‡‡é›†",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-      "playUrl": "parse:¹Ù½â",
+      "playUrl": "parse:å®˜è§£",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Ğ¡ÒÌ",
-      "name": "ÒµÓà©§ÍæÅ¼ÒÌÃÃ",
+      "key": "å°å§¨",
+      "name": "ä¸šä½™â”ƒç©å¶å§¨å¦¹",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "group": "tvbox",
@@ -318,88 +318,88 @@
       "id": 1528
     },
     {
-      "key": "»ğºüµçÓ°",
-      "name": "ÔÆ²¥»ğºüµçÓ°",
+      "key": "ç«ç‹ç”µå½±",
+      "name": "äº‘æ’­ç«ç‹ç”µå½±",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "¶¯×÷Æ¬",
-        "°®ÇéÆ¬",
-        "Ï²¾çÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "ÔÖÄÑÆ¬",
-        "ĞüÒÉÆ¬",
-        "·¸×ïÆ¬",
-        "Ææ»ÃÆ¬",
-        "¼ÇÂ¼Æ¬",
-        "Â×ÀíÆ¬",
-        "ÄÚµØ¾ç",
-        "Ïã¸Û¾ç",
-        "Å·ÃÀ¾ç",
-        "º«¾ç",
-        "ÈÕ¾ç",
-        "Ì¨Íå¾ç",
-        "ÂíÌ©¾ç",
-        "¶¯»­Æ¬",
-        "ÖĞ¹ú¶¯Âş",
-        "ÈÕ±¾¶¯Âş",
-        "Å·ÃÀ¶¯Âş",
-        "´óÂ½×ÛÒÕ",
-        "ÈÕº«×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ"
+        "åŠ¨ä½œç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "å–œå‰§ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "ç¾éš¾ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "çŠ¯ç½ªç‰‡",
+        "å¥‡å¹»ç‰‡",
+        "è®°å½•ç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "å†…åœ°å‰§",
+        "é¦™æ¸¯å‰§",
+        "æ¬§ç¾å‰§",
+        "éŸ©å‰§",
+        "æ—¥å‰§",
+        "å°æ¹¾å‰§",
+        "é©¬æ³°å‰§",
+        "åŠ¨ç”»ç‰‡",
+        "ä¸­å›½åŠ¨æ¼«",
+        "æ—¥æœ¬åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "å¤§é™†ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º"
       ]
     },
     {
-      "key": "csp_xml_ºìÅ£",
-      "name": "ºìÅ£",
+      "key": "csp_xml_çº¢ç‰›",
+      "name": "çº¢ç‰›",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "playerType": 2,
       "categories": [
-        "¶¯×÷Æ¬",
-        "Ï²¾çÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "°®ÇéÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "¼ÍÂ¼Æ¬",
-        "¶¯ÂşµçÓ°",
-        "¹ú²ú¾ç",
-        "Å·ÃÀ¾ç",
-        "·¸×ïÆ¬",
-        "¸Û°Ä¾ç",
-        "º«¾ç",
-        "Ì©¾ç",
-        "Ì¨Íå¾ç",
-        "ÈÕ¾ç",
-        "º£Íâ¾ç",
-        "ÆäËûÆ¬",
-        "ĞüÒÉÆ¬",
-        "Ææ»ÃÆ¬",
-        "¶¯»­Æ¬",
-        "ÌåÓıÈüÊÂ",
-        "¹ú²ú¶¯Âş",
-        "ÈÕ±¾¶¯Âş",
-        "Å·ÃÀ¶¯Âş",
-        "¸ÛÌ¨¶¯Âş",
-        "º£Íâ¶¯Âş",
-        "´óÂ½×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "ÈÕº«×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ"
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "çºªå½•ç‰‡",
+        "åŠ¨æ¼«ç”µå½±",
+        "å›½äº§å‰§",
+        "æ¬§ç¾å‰§",
+        "çŠ¯ç½ªç‰‡",
+        "æ¸¯æ¾³å‰§",
+        "éŸ©å‰§",
+        "æ³°å‰§",
+        "å°æ¹¾å‰§",
+        "æ—¥å‰§",
+        "æµ·å¤–å‰§",
+        "å…¶ä»–ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "å¥‡å¹»ç‰‡",
+        "åŠ¨ç”»ç‰‡",
+        "ä½“è‚²èµ›äº‹",
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥æœ¬åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "æ¸¯å°åŠ¨æ¼«",
+        "æµ·å¤–åŠ¨æ¼«",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º"
       ]
     },
     {
       "key": "maolv_open",
-      "name": "Ã«Â¿Ó°ÊÓ",
+      "name": "æ¯›é©´å½±è§†",
       "type": 3,
       "api": "csp_Maolv",
       "searchable": 1,
@@ -408,8 +408,8 @@
       "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
     {
-      "key": "ÌÚÑ¶×ÊÔ´",
-      "name": "?©§ÁúÁú??©§ÌÚ?Ñ¶©§Ó°ÊÓ©§",
+      "key": "è…¾è®¯èµ„æº",
+      "name": "?â”ƒé¾™é¾™??â”ƒè…¾?è®¯â”ƒå½±è§†â”ƒ",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
       "playUrl": "",
@@ -417,14 +417,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "¹ú²ú¾ç",
-        "Õ½ÕùÆ¬",
-        "¶¯×÷Æ¬"
+        "å›½äº§å‰§",
+        "æˆ˜äº‰ç‰‡",
+        "åŠ¨ä½œç‰‡"
       ]
     },
     {
-      "key": "Ã¢¹û×ÊÔ´",
-      "name": "©§ÁúÁú??©§Ã¢¹û©§Ó°ÊÓ©§",
+      "key": "èŠ’æœèµ„æº",
+      "name": "â”ƒé¾™é¾™??â”ƒèŠ’æœâ”ƒå½±è§†â”ƒ",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
       "playUrl": "",
@@ -432,14 +432,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "¹ú²ú¾ç",
-        "Õ½ÕùÆ¬",
-        "¶¯×÷Æ¬"
+        "å›½äº§å‰§",
+        "æˆ˜äº‰ç‰‡",
+        "åŠ¨ä½œç‰‡"
       ]
     },
     {
-      "key": "°®ÆæÒÕ×ÊÔ´",
-      "name": "©§ÁúÁú??©§ÆæÒì©§Ó°ÊÓ©§",
+      "key": "çˆ±å¥‡è‰ºèµ„æº",
+      "name": "â”ƒé¾™é¾™??â”ƒå¥‡å¼‚â”ƒå½±è§†â”ƒ",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
       "playUrl": "",
@@ -447,14 +447,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "¹ú²ú¾ç",
-        "¶¯×÷Æ¬",
-        "Ï²¾çÆ¬"
+        "å›½äº§å‰§",
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡"
       ]
     },
     {
-      "key": "ÓÅ¿á×ÊÔ´",
-      "name": "?©§ÁúÁú??©§Ã¢¹û©§Ó°ÊÓ©§",
+      "key": "ä¼˜é…·èµ„æº",
+      "name": "?â”ƒé¾™é¾™??â”ƒèŠ’æœâ”ƒå½±è§†â”ƒ",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
       "playUrl": "",
@@ -462,14 +462,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "¹ú²ú¾ç",
-        "¶¯×÷Æ¬",
-        "Ï²¾çÆ¬"
+        "å›½äº§å‰§",
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡"
       ]
     },
     {
-      "key": "ÆïÆïÓ°Ôº",
-      "name": "©§ÁúÁú??©§ÆïÆï©§",
+      "key": "éª‘éª‘å½±é™¢",
+      "name": "â”ƒé¾™é¾™??â”ƒéª‘éª‘â”ƒ",
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
@@ -480,7 +480,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "MV | ¿¨À­OK",
+      "name": "MV | å¡æ‹‰OK",
       "type": 1,
       "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
       "changeable": 0,
@@ -489,37 +489,37 @@
       }
     },
     {
-      "key": "csp_ËÙ²¥",
-      "name": "©§ÁúÁú??©§²É¼¯©§ËÙ²¨2©§",
+      "key": "csp_é€Ÿæ’­",
+      "name": "â”ƒé¾™é¾™??â”ƒé‡‡é›†â”ƒé€Ÿæ³¢2â”ƒ",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "´óÂ½¾ç",
-        "¸Û°Ä¾ç",
-        "¶¯Âş",
-        "×ÛÒÕ"
+        "å¤§é™†å‰§",
+        "æ¸¯æ¾³å‰§",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
       ]
     },
     {
-      "key": "»ğºü",
-      "name": "©§ÁúÁú??©§²É¼¯©§»ğºü©§",
+      "key": "ç«ç‹",
+      "name": "â”ƒé¾™é¾™??â”ƒé‡‡é›†â”ƒç«ç‹â”ƒ",
       "type": 0,
       "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "µçÊÓ¾ç",
-        "µçÓ°",
-        "¶¯Âş",
-        "×ÛÒÕ"
+        "ç”µè§†å‰§",
+        "ç”µå½±",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
       ]
     },
     {
-      "key": "¹şà¶",
-      "name": "©§ÁúÁú?©§¹şà¶©§App©§",
+      "key": "å“ˆå–½",
+      "name": "â”ƒé¾™é¾™?â”ƒå“ˆå–½â”ƒAppâ”ƒ",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -528,113 +528,113 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
-      "key": "555Ò»£¨APP£©",
-      "name": "555Ò»£¨APP£©",
+      "key": "555ä¸€ï¼ˆAPPï¼‰",
+      "name": "555ä¸€ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://555dy3.com/api.php/app/"
     },
     {
-      "key": "¾ÉÃÎÓ°ÊÓ£¨APP£©",
-      "name": "¾ÉÃÎÓ°ÊÓ£¨APP£©",
+      "key": "æ—§æ¢¦å½±è§†ï¼ˆAPPï¼‰",
+      "name": "æ—§æ¢¦å½±è§†ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://43.139.139.17:4433/api.php/app/"
     },
     {
-      "key": "´óÃ×ĞÇÇò£¨APP£©",
-      "name": "´óÃ×ĞÇÇò£¨APP£©",
+      "key": "å¤§ç±³æ˜Ÿçƒï¼ˆAPPï¼‰",
+      "name": "å¤§ç±³æ˜Ÿçƒï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://dmdy2.vip/api.php/app/"
     },
     {
-      "key": "HOHO£¨APP£©",
-      "name": "HOHO£¨APP£©",
+      "key": "HOHOï¼ˆAPPï¼‰",
+      "name": "HOHOï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://hoho.tv/api.php/app/"
     },
     {
-      "key": "²¼ÒÂ£¨APP£©",
-      "name": "²¼ÒÂ£¨APP£©",
+      "key": "å¸ƒè¡£ï¼ˆAPPï¼‰",
+      "name": "å¸ƒè¡£ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://byyy5.com/api.php/app/"
     },
     {
-      "key": "ËÙ¿´100£¨APP£©",
-      "name": "ËÙ¿´100£¨APP£©",
+      "key": "é€Ÿçœ‹100ï¼ˆAPPï¼‰",
+      "name": "é€Ÿçœ‹100ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://sk100.tv/api.php/app/"
     },
     {
-      "key": "°¢Àï£¨APP£©",
-      "name": "°¢Àï£¨APP£©",
+      "key": "é˜¿é‡Œï¼ˆAPPï¼‰",
+      "name": "é˜¿é‡Œï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://aliys.cn:91/api.php/v1.vod"
     },
     {
-      "key": "¿´¾ç°É£¨APP£©",
-      "name": "¿´¾ç°É£¨APP£©",
+      "key": "çœ‹å‰§å§ï¼ˆAPPï¼‰",
+      "name": "çœ‹å‰§å§ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://app.ishen520.com/api.php/v1.vod "
     },
     {
-      "key": "±¦ÏÉ£¨APP£©",
-      "name": "±¦ÏÉ£¨APP£©",
+      "key": "å®ä»™ï¼ˆAPPï¼‰",
+      "name": "å®ä»™ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://webdillo.com/api.php/app/"
     },
     {
-      "key": "ÉÙÔóÓ°¿Í£¨APP£©",
-      "name": "ÉÙÔóÓ°¿Í£¨APP£©",
+      "key": "å°‘æ³½å½±å®¢ï¼ˆAPPï¼‰",
+      "name": "å°‘æ³½å½±å®¢ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://yk.shaozeyy.com/api.php/app/"
     },
     {
-      "key": "ÎŞÏŞÓ°ÊÓÍø£¨APP£©",
-      "name": "ÎŞÏŞÓ°ÊÓÍø£¨APP£©",
+      "key": "æ— é™å½±è§†ç½‘ï¼ˆAPPï¼‰",
+      "name": "æ— é™å½±è§†ç½‘ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.wxtv.net/api.php/app/"
     },
     {
-      "key": "TV¿á£¨APP£©",
-      "name": "TV¿á£¨APP£©",
+      "key": "TVé…·ï¼ˆAPPï¼‰",
+      "name": "TVé…·ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "ÌìÌìÃÀ¾çÍø£¨APP£©",
-      "name": "ÌìÌìÃÀ¾çÍø£¨APP£©",
+      "key": "å¤©å¤©ç¾å‰§ç½‘ï¼ˆAPPï¼‰",
+      "name": "å¤©å¤©ç¾å‰§ç½‘ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.ttmja.com/api.php/app/"
     },
     {
-      "key": "ÃÔÄã¿â£¨APP£©",
-      "name": "ÃÔÄã¿â£¨APP£©",
+      "key": "è¿·ä½ åº“ï¼ˆAPPï¼‰",
+      "name": "è¿·ä½ åº“ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
-      "key": "ÈçÒâ£¨APP£©",
-      "name": "ÈçÒâ£¨APP£©",
+      "key": "å¦‚æ„ï¼ˆAPPï¼‰",
+      "name": "å¦‚æ„ï¼ˆAPPï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://cms.maoyingshi.cc/api.php/app/"
     },
     {
-      "key": "UM£¨APP-ÊÖ»ú4GÍø×¨ÓÃ£©",
-      "name": "UM£¨APP-ÊÖ»ú4GÍø×¨ÓÃ£©",
+      "key": "UMï¼ˆAPP-æ‰‹æœº4Gç½‘ä¸“ç”¨ï¼‰",
+      "name": "UMï¼ˆAPP-æ‰‹æœº4Gç½‘ä¸“ç”¨ï¼‰",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.umkan.cc/mogai_api.php/v1.vod"
@@ -650,15 +650,15 @@
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod",
       "categories": [
-        "Á¬Ğø¾ç",
-        "µçÓ°",
-        "¶¯Âş",
-        "×ÛÒÕ"
+        "è¿ç»­å‰§",
+        "ç”µå½±",
+        "åŠ¨æ¼«",
+        "ç»¼è‰º"
       ]
     },
     {
       "key": "xgapp",
-      "name": "Î÷¹Ï×ÊÔ´",
+      "name": "è¥¿ç“œèµ„æº",
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
@@ -668,57 +668,57 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
-      "key": "drpy_js_°®ÆæÒÕ",
-      "name": "°®ÆæÒÕ",
+      "key": "drpy_js_çˆ±å¥‡è‰º",
+      "name": "çˆ±å¥‡è‰º",
       "type": 3,
       "api": "https://bjson.cf/tvbox/drpymin.js",
       "ext": "https://bjson.cf/tvbox/douban.js"
     },
     {
-      "key": "xml_¿ì¿´",
-      "name": "?¿ì¿´¡î×ÊÔ´",
+      "key": "xml_å¿«çœ‹",
+      "name": "?å¿«çœ‹â˜†èµ„æº",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun",
       "categories": [
-        "ÍøÂçµçÓ°",
-        "¶¯»­µçÓ°",
-        "¶¯×÷Æ¬",
-        "Ã°ÏÕÆ¬",
-        "¾çÇéÆ¬",
-        "¼ÍÂ¼Æ¬",
-        "Ï²¾çÆ¬",
-        "Ææ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "ĞüÒÉÆ¬",
-        "¾ªã¤Æ¬",
-        "Õ½ÕùÆ¬",
-        "ÔÖÄÑÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "·¸×ïÆ¬",
-        "Â×ÀíÆ¬",
-        "¹ú²ú¾ç",
-        "¸ÛÌ¨¾ç",
-        "ÈÕ±¾¾ç",
-        "º«¹ú¾ç",
-        "Å·ÃÀ¾ç",
-        "ĞÂÂí¾ç",
-        "Ì©¾ç",
-        "ÆäËû¾ç",
-        "¹ú²ú×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "ÈÕ±¾×ÛÒÕ",
-        "º«¹ú×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ",
-        "¹ú²ú¶¯Âş",
-        "¸ÛÌ¨¶¯Âş",
-        "ÈÕ±¾¶¯Âş",
-        "Å·ÃÀ¶¯Âş"
+        "ç½‘ç»œç”µå½±",
+        "åŠ¨ç”»ç”µå½±",
+        "åŠ¨ä½œç‰‡",
+        "å†’é™©ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "çºªå½•ç‰‡",
+        "å–œå‰§ç‰‡",
+        "å¥‡å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "æƒŠæ‚šç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "ç¾éš¾ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "çŠ¯ç½ªç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "å›½äº§å‰§",
+        "æ¸¯å°å‰§",
+        "æ—¥æœ¬å‰§",
+        "éŸ©å›½å‰§",
+        "æ¬§ç¾å‰§",
+        "æ–°é©¬å‰§",
+        "æ³°å‰§",
+        "å…¶ä»–å‰§",
+        "å›½äº§ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥æœ¬ç»¼è‰º",
+        "éŸ©å›½ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º",
+        "å›½äº§åŠ¨æ¼«",
+        "æ¸¯å°åŠ¨æ¼«",
+        "æ—¥æœ¬åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«"
       ]
     },
     {
-      "key": "xml_Ìì¿Õ",
-      "name": "Ìì¿Õ¡î×ÊÔ´",
+      "key": "xml_å¤©ç©º",
+      "name": "å¤©ç©ºâ˜†èµ„æº",
       "type": 1,
       "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
       "searchable": 1,
@@ -726,81 +726,81 @@
       "filterable": 1
     },
     {
-      "key": "xml_ÎŞ¾¡",
-      "name": "ÎŞ¾¡¡î×ÊÔ´",
+      "key": "xml_æ— å°½",
+      "name": "æ— å°½â˜†èµ„æº",
       "type": 1,
       "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "¶¯×÷Æ¬",
-        "¶¯»­Æ¬",
-        "Ï²¾çÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "ĞüÒÉÆ¬",
-        "·¸×ïÆ¬",
-        "Ææ»ÃÆ¬",
-        "ÉÛÊÏµçÓ°",
-        "¼ÍÂ¼Æ¬",
-        "Â×ÀíÆ¬",
-        "¹ú²ú¾ç",
-        "Ïã¸Û¾ç",
-        "Ì¨Íå¾ç",
-        "ÈÕ±¾¾ç",
-        "º«¹ú¾ç",
-        "ÃÀ¹ú¾ç",
-        "Ì©¾ç",
-        "º£Íâ¾ç",
-        "´óÂ½×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "ÈÕº«×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ",
-        "¹ú²ú¶¯Âş",
-        "ÈÕº«¶¯Âş",
-        "Å·ÃÀ¶¯Âş",
-        "Ó°ÊÓ½âËµ",
-        "ÌåÓıÈüÊÂ"
+        "åŠ¨ä½œç‰‡",
+        "åŠ¨ç”»ç‰‡",
+        "å–œå‰§ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "çŠ¯ç½ªç‰‡",
+        "å¥‡å¹»ç‰‡",
+        "é‚µæ°ç”µå½±",
+        "çºªå½•ç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "å›½äº§å‰§",
+        "é¦™æ¸¯å‰§",
+        "å°æ¹¾å‰§",
+        "æ—¥æœ¬å‰§",
+        "éŸ©å›½å‰§",
+        "ç¾å›½å‰§",
+        "æ³°å‰§",
+        "æµ·å¤–å‰§",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º",
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥éŸ©åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "å½±è§†è§£è¯´",
+        "ä½“è‚²èµ›äº‹"
       ]
     },
     {
-      "key": "xml_¹âËÙ",
-      "name": "¹âËÙ¡î×ÊÔ´",
+      "key": "xml_å…‰é€Ÿ",
+      "name": "å…‰é€Ÿâ˜†èµ„æº",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "×ÛÒÕ",
-        "¶¯Âş",
-        "ÌåÓıÈüÊÂ",
-        "¶¯×÷Æ¬",
-        "¶¯ÂşµçÓ°",
-        "Ï²¾çÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "¼ÇÂ¼Æ¬",
-        "Â×ÀíÆ¬",
-        "¹ú²ú¾ç",
-        "¸Û°Ä¾ç",
-        "Ì¨Íå¾ç",
-        "ÈÕ¾ç",
-        "º«¾ç",
-        "Å·ÃÀ¾ç",
-        "Ì©¾ç"
+        "ç»¼è‰º",
+        "åŠ¨æ¼«",
+        "ä½“è‚²èµ›äº‹",
+        "åŠ¨ä½œç‰‡",
+        "åŠ¨æ¼«ç”µå½±",
+        "å–œå‰§ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "è®°å½•ç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "å›½äº§å‰§",
+        "æ¸¯æ¾³å‰§",
+        "å°æ¹¾å‰§",
+        "æ—¥å‰§",
+        "éŸ©å‰§",
+        "æ¬§ç¾å‰§",
+        "æ³°å‰§"
       ]
     },
     {
-      "key": "xml_·ÉËÙ",
-      "name": "·ÉËÙ¡î×ÊÔ´",
+      "key": "xml_é£é€Ÿ",
+      "name": "é£é€Ÿâ˜†èµ„æº",
       "type": 1,
       "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -808,50 +808,50 @@
       "filterable": 1
     },
     {
-      "key": "xml_°Ù¶È",
-      "name": "°Ù¶È¡î×ÊÔ´",
+      "key": "xml_ç™¾åº¦",
+      "name": "ç™¾åº¦â˜†èµ„æº",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "×ÛÒÕ",
-        "¶¯Âş",
-        "ÌåÓıÈüÊÂ",
-        "¶¯×÷Æ¬",
-        "¶¯»­µçÓ°",
-        "Ï²¾çÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "ĞüÒÉÆ¬",
-        "·¸×ïÆ¬",
-        "ÉÛÊÏµçÓ°",
-        "¼ÍÂ¼Æ¬",
-        "Â×ÀíÆ¬",
-        "´óÂ½¾ç",
-        "¸Û°Ä¾ç",
-        "Ì¨Íå¾ç",
-        "ÈÕ¾ç",
-        "º«¾ç",
-        "Å·ÃÀ¾ç",
-        "Ì©¾ç",
-        "ÆäËû¾ç",
-        "´óÂ½×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "ÈÕº«×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ",
-        "¹ú²ú¶¯Âş",
-        "ÈÕº«¶¯Âş",
-        "Å·ÃÀ¶¯Âş"
+        "ç»¼è‰º",
+        "åŠ¨æ¼«",
+        "ä½“è‚²èµ›äº‹",
+        "åŠ¨ä½œç‰‡",
+        "åŠ¨ç”»ç”µå½±",
+        "å–œå‰§ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "çŠ¯ç½ªç‰‡",
+        "é‚µæ°ç”µå½±",
+        "çºªå½•ç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "å¤§é™†å‰§",
+        "æ¸¯æ¾³å‰§",
+        "å°æ¹¾å‰§",
+        "æ—¥å‰§",
+        "éŸ©å‰§",
+        "æ¬§ç¾å‰§",
+        "æ³°å‰§",
+        "å…¶ä»–å‰§",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º",
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥éŸ©åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«"
       ]
     },
     {
-      "key": "xml_ÉÁµç",
-      "name": "ÉÁµç¡î×ÊÔ´",
+      "key": "xml_é—ªç”µ",
+      "name": "é—ªç”µâ˜†èµ„æº",
       "type": 1,
       "api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -860,63 +860,63 @@
     },
     {
       "key": "xml_CK",
-      "name": "CK¡î×ÊÔ´",
+      "name": "CKâ˜†èµ„æº",
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "¶¯×÷Æ¬",
-        "Ï²¾çÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "ĞüÒÉÆ¬",
-        "Ææ»ÃÆ¬",
-        "¼ÇÂ¼Æ¬",
-        "Â×ÀíÆ¬",
-        "¹ú²ú¾ç",
-        "¸ÛÌ¨¾ç",
-        "ÈÕº«¾ç",
-        "Å·ÃÀ¾ç"
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "å¥‡å¹»ç‰‡",
+        "è®°å½•ç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "å›½äº§å‰§",
+        "æ¸¯å°å‰§",
+        "æ—¥éŸ©å‰§",
+        "æ¬§ç¾å‰§"
       ]
     },
     {
       "key": "xml_UK",
-      "name": "UK¡î×ÊÔ´",
+      "name": "UKâ˜†èµ„æº",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "×ÛÒÕ",
-        "¶¯Âş",
-        "¶¯×÷Æ¬",
-        "Ï²¾çÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "Õ½ÕùÆ¬",
-        "¾çÇéÆ¬",
-        "¼ÇÂ¼Æ¬",
-        "Â×ÀíÆ¬",
-        "¶¯ÂşµçÓ°",
-        "¹ú²ú¾ç",
-        "¸Û°Ä¾ç",
-        "Ì¨Íå¾ç",
-        "ÈÕ¾ç",
-        "º«¾ç",
-        "Å·ÃÀ¾ç",
-        "Ì©¾ç"
+        "ç»¼è‰º",
+        "åŠ¨æ¼«",
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "è®°å½•ç‰‡",
+        "ä¼¦ç†ç‰‡",
+        "åŠ¨æ¼«ç”µå½±",
+        "å›½äº§å‰§",
+        "æ¸¯æ¾³å‰§",
+        "å°æ¹¾å‰§",
+        "æ—¥å‰§",
+        "éŸ©å‰§",
+        "æ¬§ç¾å‰§",
+        "æ³°å‰§"
       ]
     },
     {
-      "key": "¸ßÇåÊÓ½ç",
-      "name": "ÊÓ½ç | APP",
+      "key": "é«˜æ¸…è§†ç•Œ",
+      "name": "è§†ç•Œ | APP",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
@@ -938,8 +938,8 @@
       "filterable": 1
     },
     {
-      "key": "Ä§¶¼×ÊÔ´",
-      "name": "Ä§¶¼×ÊÔ´",
+      "key": "é­”éƒ½èµ„æº",
+      "name": "é­”éƒ½èµ„æº",
       "type": 1,
       "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://www.moduzy.com/jiexi/?url=",
@@ -948,8 +948,8 @@
       "filterable": 1
     },
     {
-      "key": "ĞÇÓ°1080cms",
-      "name": "ĞÇÓ°1080 | APP",
+      "key": "æ˜Ÿå½±1080cms",
+      "name": "æ˜Ÿå½±1080 | APP",
       "type": 1,
       "api": "https://www.xy1080.net/api.php/provide/vod",
       "searchable": 1,
@@ -957,27 +957,27 @@
     },
     {
       "key": "csp_xml_dm",
-      "name": "dm©§¶¯Âş",
+      "name": "dmâ”ƒåŠ¨æ¼«",
       "type": 1,
       "api": "https://www.xy1080.net/api.php/provide/vod?from=dm1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "¶¯Âş"
+        "åŠ¨æ¼«"
       ]
     },
     {
-      "key": "girigiri°®¶¯Âş",
-      "name": "girigiri°®¶¯Âş",
+      "key": "girigiriçˆ±åŠ¨æ¼«",
+      "name": "girigiriçˆ±åŠ¨æ¼«",
       "type": 1,
       "api": "https://anime.girigirilove.com//api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 0
     },
     {
-      "key": "ÌÚÑ¶",
-      "name": "ÌÚÑ¶©§¹ÙÔ´",
+      "key": "è…¾è®¯",
+      "name": "è…¾è®¯â”ƒå®˜æº",
       "type": 1,
       "api": "http://tvbox.top/qq.php",
       "changeable": 0,
@@ -985,8 +985,8 @@
       "quickSearch": 1
     },
     {
-      "key": "·ÉËÙ×ÊÔ´",
-      "name": "·ÉËÙ×ÊÔ´",
+      "key": "é£é€Ÿèµ„æº",
+      "name": "é£é€Ÿèµ„æº",
       "type": 1,
       "api": "https://www.feisuzy.com/api.php/provide/vod/",
       "playUrl": "",
@@ -994,8 +994,8 @@
       "quickSearch": 1
     },
     {
-      "key": "¿É¿É×ÊÔ´",
-      "name": "¿É¿É×ÊÔ´",
+      "key": "å¯å¯èµ„æº",
+      "name": "å¯å¯èµ„æº",
       "type": 1,
       "api": "https://caiji.kekezyapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1003,8 +1003,8 @@
       "quickSearch": 1
     },
     {
-      "key": "Ææ»¢×ÊÔ´",
-      "name": "Ææ»¢×ÊÔ´",
+      "key": "å¥‡è™èµ„æº",
+      "name": "å¥‡è™èµ„æº",
       "type": 1,
       "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1012,8 +1012,8 @@
       "quickSearch": 1
     },
     {
-      "key": "»ğºü×ÊÔ´",
-      "name": "»ğºü×ÊÔ´",
+      "key": "ç«ç‹èµ„æº",
+      "name": "ç«ç‹èµ„æº",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1021,8 +1021,8 @@
       "quickSearch": 1
     },
     {
-      "key": "´óÄ®×ÊÔ´",
-      "name": "´óÄ®×ÊÔ´",
+      "key": "å¤§æ¼ èµ„æº",
+      "name": "å¤§æ¼ èµ„æº",
       "type": 1,
       "api": "https://damozy.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1030,8 +1030,8 @@
       "quickSearch": 1
     },
     {
-      "key": "ÈËÈËÓ°ÊÓ",
-      "name": "ÈËÈËÓ°ÊÓ",
+      "key": "äººäººå½±è§†",
+      "name": "äººäººå½±è§†",
       "type": 1,
       "api": "https://www.rrvipw.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1039,8 +1039,8 @@
       "quickSearch": 1
     },
     {
-      "key": "ÌìÌÃ×ÊÔ´",
-      "name": "ÌìÌÃ×ÊÔ´",
+      "key": "å¤©å ‚èµ„æº",
+      "name": "å¤©å ‚èµ„æº",
       "type": 1,
       "api": "http://vipmv.cc/api.php/provide/vod/",
       "playUrl": "",
@@ -1049,7 +1049,7 @@
     },
     {
       "key": "csp_kuaikan",
-      "name": "??¿ì¿´©§App",
+      "name": "??å¿«çœ‹â”ƒApp",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -1057,8 +1057,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_ÈçÈç",
-      "name": "??ÈçÈç©§App",
+      "key": "csp_å¦‚å¦‚",
+      "name": "??å¦‚å¦‚â”ƒApp",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1067,8 +1067,8 @@
       "ext": "http://cms.maoyingshi.cc/api.php/app/"
     },
     {
-      "key": "Ğ¡Ã¨ßä",
-      "name": "Ğ¡Ã¨ßä",
+      "key": "å°çŒ«å’ª",
+      "name": "å°çŒ«å’ª",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "playUrl": "",
@@ -1076,8 +1076,8 @@
       "quickSearch": 1
     },
     {
-      "key": "Ó³ÃÔ",
-      "name": "Ó³ÃÔ",
+      "key": "æ˜ è¿·",
+      "name": "æ˜ è¿·",
       "type": 1,
       "api": "https://www.inmi.app/api.php/provide/vod/",
       "playUrl": "",
@@ -1085,8 +1085,8 @@
       "quickSearch": 1
     },
     {
-      "key": "ËÙ²©×ÊÔ´",
-      "name": "ËÙ²©×ÊÔ´",
+      "key": "é€Ÿåšèµ„æº",
+      "name": "é€Ÿåšèµ„æº",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1094,8 +1094,8 @@
       "quickSearch": 1
     },
     {
-      "key": "»¢ÑÀ×ÊÔ´",
-      "name": "»¢ÑÀ×ÊÔ´",
+      "key": "è™ç‰™èµ„æº",
+      "name": "è™ç‰™èµ„æº",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1103,8 +1103,8 @@
       "quickSearch": 1
     },
     {
-      "key": "°Ë½ä×ÊÔ´",
-      "name": "°Ë½ä×ÊÔ´",
+      "key": "å…«æˆ’èµ„æº",
+      "name": "å…«æˆ’èµ„æº",
       "type": 1,
       "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
       "playUrl": "",
@@ -1112,18 +1112,18 @@
       "quickSearch": 1
     },
     {
-      "key": "»¢ÑÀÖ±²¥js",
-      "name": "??»¢ÑÀ©§Ö±²¥",
+      "key": "è™ç‰™ç›´æ’­js",
+      "name": "??è™ç‰™â”ƒç›´æ’­",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/»¢ÑÀÖ±²¥.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/è™ç‰™ç›´æ’­.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "¹âËÙ×ÊÔ´",
-      "name": "¹âËÙ×ÊÔ´",
+      "key": "å…‰é€Ÿèµ„æº",
+      "name": "å…‰é€Ÿèµ„æº",
       "type": 1,
       "api": "http://guangsuzy.com/index.php/vod/",
       "searchable": 1,
@@ -1132,8 +1132,8 @@
       "playUrl": "https://www.gszyv.com/m3u8/?url="
     },
     {
-      "key": "Ã÷µØ",
-      "name": "Ã÷µØ¹Ù²É/½âÎö",
+      "key": "æ˜åœ°",
+      "name": "æ˜åœ°å®˜é‡‡/è§£æ",
       "type": 1,
       "api": "http://cj.md214.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -1142,7 +1142,7 @@
     },
     {
       "key": "csp_Kuaikan",
-      "name": "??¿ì¿´Ó°ÊÓ",
+      "name": "??å¿«çœ‹å½±è§†",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -1150,8 +1150,8 @@
       "filterable": 1
     },
     {
-      "key": "×î´ó×ÊÔ´",
-      "name": "×î´ó×ÊÔ´",
+      "key": "æœ€å¤§èµ„æº",
+      "name": "æœ€å¤§èµ„æº",
       "type": 1,
       "api": "http://zuidazy.me/api.php/provide/vod/",
       "playUrl": "",
@@ -1159,8 +1159,8 @@
       "quickSearch": 1
     },
     {
-      "key": "½ğÓ¥×ÊÔ´",
-      "name": "½ğÓ¥×ÊÔ´",
+      "key": "é‡‘é¹°èµ„æº",
+      "name": "é‡‘é¹°èµ„æº",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
       "playUrl": "",
@@ -1168,8 +1168,8 @@
       "quickSearch": 1
     },
     {
-      "key": "Æ®ÁãÓ°Ôº",
-      "name": "Æ®ÁãÓ°Ôº",
+      "key": "é£˜é›¶å½±é™¢",
+      "name": "é£˜é›¶å½±é™¢",
       "type": 1,
       "api": "https://p2100.net/api.php/provide/vod/",
       "playUrl": "",
@@ -1177,28 +1177,28 @@
       "quickSearch": 1
     },
     {
-      "key": "mtv_xp_»¢ÑÀÖ±²¥",
-      "name": "??»¢ÑÀÖ±²¥",
+      "key": "mtv_xp_è™ç‰™ç›´æ’­",
+      "name": "??è™ç‰™ç›´æ’­",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn.kstore.space/download/3092/MaooXB/»¢ÑÀÖ±²¥.json"
+      "ext": "https://cn.kstore.space/download/3092/MaooXB/è™ç‰™ç›´æ’­.json"
     },
     {
-      "key": "mtv_xp_Òì´Î¶¯Âş",
-      "name": "??Òì´Î¶¯Âş",
+      "key": "mtv_xp_å¼‚æ¬¡åŠ¨æ¼«",
+      "name": "??å¼‚æ¬¡åŠ¨æ¼«",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn.kstore.space/download/3092/MaooXB/Òì´Î¶¯Âş.json"
+      "ext": "https://cn.kstore.space/download/3092/MaooXB/å¼‚æ¬¡åŠ¨æ¼«.json"
     },
     {
       "key": "Kuaikan",
-      "name": "???ÔÂ¹â¿ì¿´(SP)",
+      "name": "???æœˆå…‰å¿«çœ‹(SP)",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -1206,8 +1206,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_appysv2_ÌìÌìÊÓÆµ",
-      "name": "ÌìÌìÊÓÆµ(ÂÜ²·)",
+      "key": "csp_appysv2_å¤©å¤©è§†é¢‘",
+      "name": "å¤©å¤©è§†é¢‘(èåœ)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1216,120 +1216,120 @@
       "ext": "http://app.qianju.cc/api.php/v1.vod"
     },
     {
-      "key": "1080×ÊÔ´¿â",
-      "name": "1080×ÊÔ´¿â(ÇĞ)",
+      "key": "1080èµ„æºåº“",
+      "name": "1080èµ„æºåº“(åˆ‡)",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "ºìÅ£×ÊÔ´",
-      "name": "ºìÅ£×ÊÔ´(ÇĞ)",
+      "key": "çº¢ç‰›èµ„æº",
+      "name": "çº¢ç‰›èµ„æº(åˆ‡)",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "ÉÁµç×ÊÔ´",
-      "name": "ÉÁµç×ÊÔ´(ÇĞ)",
+      "key": "é—ªç”µèµ„æº",
+      "name": "é—ªç”µèµ„æº(åˆ‡)",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "¹âËÙ×ÊÔ´",
-      "name": "¹âËÙ×ÊÔ´(ÇĞ)",
+      "key": "å…‰é€Ÿèµ„æº",
+      "name": "å…‰é€Ÿèµ„æº(åˆ‡)",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "º«¾ç×ÊÔ´",
-      "name": "º«¾ç×ÊÔ´(ÇĞ)",
+      "key": "éŸ©å‰§èµ„æº",
+      "name": "éŸ©å‰§èµ„æº(åˆ‡)",
       "type": 1,
       "api": "http://www.hanjuzy.com/inc/apijson_vod.php",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "77º«¾ç",
-      "name": "77º«¾ç(ÇĞ)",
+      "key": "77éŸ©å‰§",
+      "name": "77éŸ©å‰§(åˆ‡)",
       "type": 1,
       "api": "https://www.77hanju.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "°Ù¶È×ÊÔ´",
-      "name": "°Ù¶È×ÊÔ´(ÇĞ)",
+      "key": "ç™¾åº¦èµ„æº",
+      "name": "ç™¾åº¦èµ„æº(åˆ‡)",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "ÎŞ¾¡×ÊÔ´",
-      "name": "ÎŞ¾¡×ÊÔ´(ÇĞ)",
+      "key": "æ— å°½èµ„æº",
+      "name": "æ— å°½èµ„æº(åˆ‡)",
       "type": 1,
       "api": "https://api.wujinapi.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "Ìì¿Õ×ÊÔ´",
-      "name": "Ìì¿Õ×ÊÔ´(ÇĞ)",
+      "key": "å¤©ç©ºèµ„æº",
+      "name": "å¤©ç©ºèµ„æº(åˆ‡)",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "U¿á×ÊÔ´",
-      "name": "U¿á×ÊÔ´(ÓÅ)",
+      "key": "Ué…·èµ„æº",
+      "name": "Ué…·èµ„æº(ä¼˜)",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "ÁúÌÚ×ÊÔ´",
-      "name": "ÁúÌÚ×ÊÔ´(ÓÅ)",
+      "key": "é¾™è…¾èµ„æº",
+      "name": "é¾™è…¾èµ„æº(ä¼˜)",
       "type": 1,
       "api": "http://175.178.7.35:2020/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "Ó°Í¼",
-      "name": "Ó°Í¼(¾Û)",
+      "key": "å½±å›¾",
+      "name": "å½±å›¾(èš)",
       "type": 1,
       "api": "https://cj.vodimg.top/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "ÈÈ¾çÌìÌÃ",
-      "name": "ÈÈ¾çÌìÌÃ(¾Û)",
+      "key": "çƒ­å‰§å¤©å ‚",
+      "name": "çƒ­å‰§å¤©å ‚(èš)",
       "type": 1,
       "api": "http://175.178.7.35:2020/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "39Ó°ÊÓ",
-      "name": "39Ó°ÊÓ(¾Û)",
+      "key": "39å½±è§†",
+      "name": "39å½±è§†(èš)",
       "type": 1,
       "api": "https://www.39kan.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "Ã÷µÛ",
-      "name": "Ã÷µÛ",
+      "key": "æ˜å¸",
+      "name": "æ˜å¸",
       "type": 1,
       "api": "http://cj.md214.cn/api.php/provide/vod/",
       "playUrl": "",
@@ -1339,13 +1339,13 @@
   ],
 "parses": [
            {
-         "name": "Web²¢·¢",
+         "name": "Webå¹¶å‘",
             "type": 3,
             "url": "WebParallel"
             
         },
         {
-            "name":"lan1Ïß",
+            "name":"lan1çº¿",
             "type":1,
             "url":"http://lan.ccabc.cc/jx.php?url="
         },
@@ -1400,66 +1400,66 @@
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "duoduozy"
                 ]
             }
         },
         {
-            "name": "parwix½âÎöÏµÍ³",
+            "name": "parwixè§£æç³»ç»Ÿ",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "M3U8£¨¼«Æ·£©",
+            "name": "M3U8ï¼ˆæå“ï¼‰",
             "type": 0,
             "url": "https://jx.m3u8.pw/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "sohu",
-                    "ËÑºü",
+                    "æœç‹",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "CL4K",
                     "renrenmi",
                     "ltnb",
@@ -1468,50 +1468,50 @@
             }
         },
         {
-            "name": "³¿¹â½âÎö",
+            "name": "æ™¨å…‰è§£æ",
             "type": 0,
             "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
             "ext": {
                 "flag": [
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "qq",
-                    "ÌÚÑ¶"
+                    "è…¾è®¯"
                 ]
             }
         },
                 {
-            "name": "½âÎöÀ²",
+            "name": "è§£æå•¦",
             "type": 0,
             "url": "https://www.jiexila.com/?url=",
             "ext": {
                 "flag": [
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "qq",
-                    "ÌÚÑ¶"
+                    "è…¾è®¯"
                 ]
             }
         },
         {
-            "name": "ÏºÃ×½âÎö",
+            "name": "è™¾ç±³è§£æ",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
                 "flag": [
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "qq",
-                    "ÌÚÑ¶"
+                    "è…¾è®¯"
                 ]
             }
         },
@@ -1522,90 +1522,90 @@
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "Ò¹Ä»½âÎö",
+            "name": "å¤œå¹•è§£æ",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "M2090½âÎö",
+            "name": "M2090è§£æ",
             "type": 0,
             "url": "https://m2090.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "ÃúÈË½âÎö",
+            "name": "é“­äººè§£æ",
             "type": 0,
             "url": "https://parse.mw0.cc/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "BL½âÎö",
+            "name": "BLè§£æ",
             "type": 0,
             "url": "https://vip.bljiex.com/?v=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
@@ -1617,218 +1617,218 @@
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "MaoPlayer½âÎö",
+            "name": "MaoPlayerè§£æ",
             "type": 0,
             "url": "https://www.mtosz.com/erzi.php?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "×ó°¶½âÎö",
+            "name": "å·¦å²¸è§£æ",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
        {
-            "name": "·¹ÍÅ½âÎö",
+            "name": "é¥­å›¢è§£æ",
             "type": 0,
             "url": "https://www.fantuantva.com/jiexi/jiexi-gf/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨",
+                    "å“”å“©å“”å“©",
+                    "å“”å“©",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "OK½âÎö",
+            "name": "OKè§£æ",
             "type": 0,
             "url": "https://okjx.cc/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "OK½âÎö2",
+            "name": "OKè§£æ2",
             "type": 0,
             "url": "https://api.okjx.cc:3389/jx.php?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "È«Ãñ½âÎö",
+            "name": "å…¨æ°‘è§£æ",
             "type": 0,
             "url": "http://jx.9jsp.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "ÔÆ½âÎö",
+            "name": "äº‘è§£æ",
             "type": 0,
             "url": "https://jx.iztyy.com/svip/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "°®¶¹½âÎö",
+            "name": "çˆ±è±†è§£æ",
             "type": 0,
             "url": "https://jx.aidouer.net/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "sohu"
                 ]
             }
         },
         {
-            "name": "ÀÏ°å½âÎö",
+            "name": "è€æ¿è§£æ",
             "type": 0,
             "url": "https://vip.laobandq.com/jiexi.php?url=",
             "ext": {
                 "flag": [
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "qq",
-                    "ÌÚÑ¶"
+                    "è…¾è®¯"
                 ]
             }
         },
         {
-            "name": "ÅÌ¹Å½âÎö",
+            "name": "ç›˜å¤è§£æ",
             "type": 0,
             "url": "https://www.pangujiexi.cc/jiexi.php?url=",
             "ext": {
                 "flag": [
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "qq",
-                    "ÌÚÑ¶"
+                    "è…¾è®¯"
                 ]
             }
         },
         {
-            "name": "ÅµÑ¶½âÎö",
+            "name": "è¯ºè®¯è§£æ",
             "type": 0,
             "url": "https://www.nxflv.com/?url=",
             "ext": {
                 "flag": [
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "qq",
-                    "ÌÚÑ¶"
+                    "è…¾è®¯"
                 ]
             }
         }
@@ -1852,12 +1852,12 @@
         "miaoparty3",
         "longteng",
         "renrenmi",
-        "ÓÅ¿á",
-        "Ã¢¹û",
-        "ÌÚÑ¶",
-        "°®ÆæÒÕ",
-        "ÆæÒÕ",
-        "ÀÖÊÓ",
+        "ä¼˜é…·",
+        "èŠ’æœ",
+        "è…¾è®¯",
+        "çˆ±å¥‡è‰º",
+        "å¥‡è‰º",
+        "ä¹è§†",
         "ltnb",
         "rx",
         "rongxing",
@@ -1875,7 +1875,7 @@
     ],
   "ijk": [
     {
-      "group": "Èí½âÂë",
+      "group": "è½¯è§£ç ",
       "options": [
         {
           "category": 4,
@@ -1955,7 +1955,7 @@
       ]
     },
     {
-      "group": "Ó²½âÂë",
+      "group": "ç¡¬è§£ç ",
       "options": [
         {
           "category": 4,
