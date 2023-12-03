@@ -8,13 +8,85 @@
         {
           "name": "redirect",
           "urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"          ]
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0
+
+aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"          ]
         }
       ]
     }
   ],
   "sites": [
-        {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
+
+ {
+            "key": "360_spider",
+            "name": "360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",           
+
+"jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/051
+
+3.jar"
+        },
+    {
+            "key": "csp_qq",
+            "name": "┃SP┃腾讯视频",
+            "type": 3,
+            "api": "csp_qq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/
+
+main/%E5%AE%98%E6%BA%90.jar"
+        },
+        {
+            "key": "csp_iqiyi",
+            "name": "┃SP┃奇艺影视",
+            "type": 3,
+            "api": "csp_iqiyi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,           
+
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/
+
+main/%E5%AE%98%E6%BA%90.jar"
+        },
+        {
+            "key": "csp_mgtv",
+            "name": "┃SP┃芒果电影",
+            "type": 3,
+            "api": "csp_mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,            
+
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/
+
+main/%E5%AE%98%E6%BA%90.jar"
+        },
+		{
+            "key": "csp-youku",
+            "name": "┃SP┃优酷电影",
+            "type": 3,
+            "api": "csp_youku",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,                           
+
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/
+
+main/%E5%AE%98%E6%BA%90.jar"
+        },
+        {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-
+
+lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"c
+
+hangeable":0},
    {
       "key": "A8",
       "name": "A8影视",
@@ -280,7 +352,9 @@
       "key": "xml_奇艺采集",
       "name": "奇艺采集",
       "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?
+
+at/xml/",
       "playUrl": "parse:官解",
       "searchable": 1,
       "quickSearch": 1,
@@ -290,7 +364,9 @@
       "key": "xml_优酷采集",
       "name": "优酷采集",
       "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?
+
+at/xml/",
       "playUrl": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -300,7 +376,9 @@
       "key": "xml_芒果采集",
       "name": "芒果采集",
       "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?
+
+at/xml/",
       "playUrl": "parse:官解",
       "searchable": 1,
       "quickSearch": 1,
@@ -405,7 +483,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+      "jar": 
+
+"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider
+
+.jar"
     },
     {
       "key": "腾讯资源",
@@ -426,7 +508,9 @@
       "key": "芒果资源",
       "name": "┃龙龙??┃芒果┃影视┃",
       "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?
+
+at/xml/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -441,7 +525,9 @@
       "key": "爱奇艺资源",
       "name": "┃龙龙??┃奇异┃影视┃",
       "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?
+
+at/xml/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -456,7 +542,9 @@
       "key": "优酷资源",
       "name": "?┃龙龙??┃芒果┃影视┃",
       "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?
+
+at/xml/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -1338,15 +1426,10 @@
     }
   ],
 "parses": [
-            {"name":"小鱼解析",
-            "type":1,
-            "url":
-"http://json.84jia.com/player/?uid=12177641&key=bcfiovwCGJQSW23478&url="
-            },
+           {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/home/api?
 
-
-
-          
+type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url=
+"},  
            {
          "name": "Web并发",
             "type": 3,
