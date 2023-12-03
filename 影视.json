@@ -13,10 +13,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "",           
-
-"jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/051
-
-3.jar"
+"jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
         },
     {
             "key": "csp_qq",
@@ -26,9 +23,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/
-
-main/%E5%AE%98%E6%BA%90.jar"
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
         {
             "key": "csp_iqiyi",
@@ -39,9 +34,7 @@ main/%E5%AE%98%E6%BA%90.jar"
             "quickSearch": 1,
             "filterable": 1,           
 
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/
-
-main/%E5%AE%98%E6%BA%90.jar"
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
         {
             "key": "csp_mgtv",
@@ -51,10 +44,7 @@ main/%E5%AE%98%E6%BA%90.jar"
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,            
-
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/
-
-main/%E5%AE%98%E6%BA%90.jar"
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
 		{
             "key": "csp-youku",
@@ -65,14 +55,9 @@ main/%E5%AE%98%E6%BA%90.jar"
             "quickSearch": 1,
             "filterable": 1,                           
 
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/
-
-main/%E5%AE%98%E6%BA%90.jar"
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
-        {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-
-
-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"c
-
+        {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"c
 hangeable":0},
    {
       "key": "A8",
