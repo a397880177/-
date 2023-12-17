@@ -115,10 +115,6 @@ MIGU4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8
 家有购物,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225708/index.m3u8
 好享购物,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225757/index.m3u8
 央广购物,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226068/index.m3u8
-
-电影,#genre#
-林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-成龙,http://8.210.232.168/php/huya.php?id=11342386
 🎸音乐,#genre#
 最美的情缘,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkd3x9wUojKzHsgc.mp4
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4
