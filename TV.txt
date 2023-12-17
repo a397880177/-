@@ -36,10 +36,8 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 滨海1台,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
 滨海新闻综合,http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
 连云港频道,#genre#
-江苏 Ⅰ 连云港综合 (480p),https://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
 连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
-连云港公共频道,http://live.lyg1.com/ggpd/sd/live.m3u8
 连云港公共高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8?icpid=3&RTS=1663226999&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 卫视频道,#genre#
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
