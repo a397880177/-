@@ -1,18 +1,20 @@
 {
   "wallpaper": "",
   "spider": "https://gh.con.sh/https://github.com/a397880177/-/blob/main/CustomSpider.jar",
-   "lives": [
+ 
+  "lives": [
     {
       "group": "redirect",
       "channels": [
         {
           "name": "redirect",
           "urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2EzOTc4ODAxNzcvLS9tYWluL1RWLnR4dA=="          ]
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC5jb24uc2gvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2EzOTc4ODAxNzcvLS9tYWluL1RWLnR4dA=="          ]
         }
       ]
     }
   ],
+
   "sites": [
 
  {
