@@ -1,8 +1,4 @@
-📡中国 👉春,#genre#
-CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV-13,https://pi.0472.org/tv/mzt.php?auth=230918
-CCTV-13,https://pi.0472.org/tv/fct.php?auth=231110
-
+📡中国 2023👉春,#genre#
 凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?
 凤凰中文,http://113.117.74.27:8081/hls/36/index.m3u8
@@ -27,7 +23,6 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 4k👉修复,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 世界地理,http://cfss.cc/ds/ysp/qp.php?id=sjdl&Cf.m3u8
 动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 📡央视 👉盈,#genre#
 CCTV-01测试,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-01测试,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
@@ -51,9 +46,7 @@ CCTV13稳定,http://111.13.111.242/000000001000PLTV/88888888/224/3221236187/1.m3
 CCTV14稳定,http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
 CCTV15,稳定http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
 CCTV16稳定,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV17稳定,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=
-
-
+CCTV17稳定,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId
 🌏全球 👉天,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -865,25 +858,6 @@ HBO+,http://15.235.10.31:14411
 江西龙虎山山涧栈道,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-
- 👉结束 👉_6666,#genre#
-⑥春盈港集专线,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-⑥香港21:30四九,https://yyy.mmzj.net/lives/123678.flv
-⑥香港21:30播放,rtmp://ttt.ueedpxu.cn/live/kkk
-@新澳21:30彩家,https://blxmmo.dhrfkxq.cn/live/new33666mo.m3u8
-@新澳21:30四九,https://play666.macau-lhc.live/live/mosixmark.flv
-@新澳21:30官方,https://play888.00853lhc.live/live/mosixmark.flv
-@老澳21:32彩家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
-@老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
-@老澳21:32播放,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
-@老澳21:32官方,https://vdm6-hwnon.ntnftchain.com/live/2032-2.flv
-
-         _7777,#genre#
-爱情公寓1,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/4907f503/index.m3u8
-爱情公寓2,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/a6b1d923/index.m3u8
-爱情公寓3,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/2c997077/index.m3u8
-爱情公寓4,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/106977bb/index.m3u8
-爱情公寓5, https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/01e75fc2/index.m3u8
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
@@ -5165,6 +5139,11 @@ PPPE-093 乳房发育诊所-小花のん,https://t21.cdn2020.com/video/m3u8/2023
 DVDMS-907 大屁股邻居的妻子,https://t21.cdn2020.com/video/m3u8/2023/01/31/435c18b0/index.m3u8
 URKK-073 变态房东每天都在揉搓我的奶子,https://t21.cdn2020.com/video/m3u8/2023/01/31/02b3c007/index.m3u8
 SSIS-653 新人NO.1STYLE-伊藤聖夏,https://t21.cdn2020.com/video/m3u8/2023/01/31/4a82c8d2/index.m3u8
+爱情公寓1,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/4907f503/index.m3u8
+爱情公寓2,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/a6b1d923/index.m3u8
+爱情公寓3,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/2c997077/index.m3u8
+爱情公寓4,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/106977bb/index.m3u8
+爱情公寓5, https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/01e75fc2/index.m3u8
 电影点播_,#genre#
 破坏之王,https://alimov2.a.kwimgs.com/upic/2023/02/04/20/BMjAyMzAyMDQyMDQ3NDZfMTQ1NzgzMzI4N185NTQ1MTAyMTAzNV8yXzM=_b_B51d1a6589f53bbebd85774509db12531.mp4
 情圣,https://alimov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ5NDVfNDAzMDAxOTlfNjM2Nzg0OTIxNDBfMF8z_b_B28dfe9b393ebb627a242e07836db75a9.mp4
