@@ -2,15 +2,12 @@
   "wallpaper": "",
   "spider": "https://gh.con.sh/https://github.com/a397880177/-/blob/main/CustomSpider.jar",
  
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC5jb24uc2gvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2EzOTc4ODAxNzcvLS9tYWluL1RWLnR4dA=="，"epg": "http://epg.112114.eu.org/"
-		  }]
+  "lives": [{ "name": "lives", "type": 0,
+            "url": "aHR0cHM6Ly9naC5jb24uc2gvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2EzOTc4ODAxNzcvLS9tYWluL1RWLnR4dA==",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","playerType": 1}
+    ],
         }
       ]
     }
