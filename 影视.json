@@ -9,7 +9,8 @@
         {
           "name": "redirect",
           "urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC5jb24uc2gvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2EzOTc4ODAxNzcvLS9tYWluL1RWLnR4dA=="          ]
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC5jb24uc2gvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2EzOTc4ODAxNzcvLS9tYWluL1RWLnR4dA=="，"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"          ]
         }
       ]
     }
