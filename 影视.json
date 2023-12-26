@@ -1411,7 +1411,7 @@ at/xml/",
 "parses": [
            {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/home/api?
 
-type=ys&uid=12177641&key=acqtwyAEFKNSTUVY07=
+type=ys&uid=12177641&key=acqtwyAEFKNSTUVY07&url=
 "},  
            {
          "name": "Web并发",
