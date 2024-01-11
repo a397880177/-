@@ -131,18 +131,6 @@
 
 {"key":"csp_xBPQ_奇优","name":"🅱️奇优影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/奇优影视.json"},
 
-{"key": "荐片",
-      "name": "荐片┃P2P",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
-      "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    },
-
-
-
 
 
 {
@@ -324,6 +312,15 @@
             "ext": "",           
 "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
         },
+	  {"key": "荐片",
+      "name": "荐片┃P2P",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
+      "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+    },
 	  {
       "key": "玩偶哥哥",
       "name": "??玩偶哥哥┃4K弹幕不断流",
