@@ -314,6 +314,14 @@
       "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
       "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
         },
+	  {
+      "key": "一起看",
+      "name": "一起看┃影视",
+      "api": "csp_YQKan",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1
+    },
 	  {"key": "haiwaikan",
       "name": "海外看",
       "type": 1,
