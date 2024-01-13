@@ -304,16 +304,15 @@
             "ext": "",           
 "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
         },
-	  {
-      "key": "荐片",
-      "name": "荐片┃P2P",
+	{
+      "key": "77",
+      "name": "👒七七┃App",
       "type": 3,
-      "api": "csp_Jianpian",
+      "api": "csp_Kunyu77",
       "searchable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
-      "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-        },
+      "quickSearch": 1,
+      "changeable": 1
+    },
 	  {
       "key": "一起看",
       "name": "一起看┃影视",
