@@ -293,17 +293,7 @@
 //{"key":"大师兄影视","name":"🅱️大师兄影视","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/dashixiongyingshi.js"},
 {"key":"七年影视","name":"🅱️七年影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./lib/qinian.json"},
 
-    {
-      "key": "Czsapp",
-      "name": "厂长┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy66.com/"
-    },
+   
     {
       "key": "Xinsj",
       "name": "视觉┃直连",
