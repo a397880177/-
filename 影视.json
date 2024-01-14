@@ -295,15 +295,7 @@
 
    
    
-    {
-      "key": "77",
-      "name": "七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
  {
             "key": "360_spider",
             "name": "360影视",
