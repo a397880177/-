@@ -53,13 +53,13 @@
 
 {"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com/"},
 
-//{"key":"达达龟","name":"🅱️达龟┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
+{"key":"达达龟","name":"🅱️达龟┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
 
-//{"key": "yc","name": "🅱️影巢网盘|T追剧","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
+{"key": "yc","name": "🅱️影巢网盘|T追剧","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
-//{"key":"csp_骚火","name":"🅱️骚火影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/骚火影视.json"},
+{"key":"csp_骚火","name":"🅱️骚火影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/骚火影视.json"},
 
-//{"key":"csp_美剧","name":"🅱️美剧影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/美剧影视.json"},
+{"key":"csp_美剧","name":"🅱️美剧影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/美剧影视.json"},
 
 
 
@@ -81,17 +81,17 @@
 
 {"key":"csp_热播","name":"🅱️热播之家|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/热播之家.json"},
 
-//{"key":"csp_玖摇","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/91影视.json"},
+{"key":"csp_玖摇","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/91影视.json"},
 
 {"key":"csp_不卡","name":"🅱️不卡影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/真不卡影视.json"},
 
 {"key":"csp_午舞","name":"🅱️午舞影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/五五影视.json"},
 
-//{"key":"csp_师兄","name":"🅱️师兄影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/大师兄影视.json"},
+{"key":"csp_师兄","name":"🅱️师兄影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/大师兄影视.json"},
 
 {"key":"csp_xBPQ_视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/新视觉影视.json"},
 
-//{"key":"csp_光棍","name":"🅱️光棍影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/光棍影视.json"},
+{"key":"csp_光棍","name":"🅱️光棍影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/光棍影视.json"},
 
 {"key":"csp_圣城","name":"🅱️圣城影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/圣城影视.json"},
 
@@ -115,7 +115,7 @@
 
 {"key":"csp_米爱","name":"🅱️米爱影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/米爱影视.json"},
 
-//{"key":"csp_低端","name":"🅱️低端影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/低端影视.json"},
+{"key":"csp_低端","name":"🅱️低端影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib2/低端影视.json"},
 
 
 
