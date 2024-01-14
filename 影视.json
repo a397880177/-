@@ -292,7 +292,7 @@
 {"key":"csp_AppYsV2","name":"🅱️69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 //{"key":"大师兄影视","name":"🅱️大师兄影视","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/dashixiongyingshi.js"},
 {"key":"七年影视","name":"🅱️七年影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./lib/qinian.json"},
-	  {
+{
       "key": "南坊",
       "name": "南坊┃App",
       "type": 3,
