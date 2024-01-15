@@ -12,5 +12,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  
+   "sites": [
+   {
+      "key": "csp_Kuaikan",
+      "name": "┃快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
+    },
   
