@@ -530,7 +530,7 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
           ]
     }
-  ]
+  ],
 "parses": [
   {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/home/api?
 
