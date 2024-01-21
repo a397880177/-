@@ -1,7 +1,7 @@
 {
   "wallpaper": "",
   "spider": "https://gh.con.sh/https://github.com/a397880177/-/blob/main/CustomSpider.jar",
-}
+
      "lives": [
     {
       "name": "live",
@@ -10,8 +10,11 @@
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/a397880177/-/main/TV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    ]
+        }
+      ]
     }
- ],
+  ],
  "sites": [
        {
       "key": "荐片",
@@ -2617,6 +2620,6 @@ type=ys&uid=12177641&key=acqtwyAEFKNSTUVY07&url=
       "name": "free",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
-    }}
-      ],
+    ]
+        },
     
