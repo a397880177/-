@@ -10,7 +10,7 @@
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/a397880177/-/main/TV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    ]
+    
         }
       ]
     }
