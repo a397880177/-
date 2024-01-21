@@ -2,7 +2,7 @@
   "wallpaper": "",
   "spider": "https://gh.con.sh/https://github.com/a397880177/-/blob/main/CustomSpider.jar",
 
-     "lives": [
+  "lives": [
     {
       "name": "live",
       "type": 0,
@@ -10,9 +10,8 @@
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/a397880177/-/main/TV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-       ],
-    
+    }
+  ],
  "sites": [
        {
       "key": "荐片",
