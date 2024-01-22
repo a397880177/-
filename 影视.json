@@ -31,6 +31,15 @@
       "filterable": 0,
       "ext": "b0e5ec2610794d8794d6971b06534d89"
     },
+    {
+      "key": "AliYunPan",
+      "name": "🅱️云盘登录|T签到",
+      "type": 3,
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "b0e5ec2610794d8794d6971b06534d89"
+    },
    {
       "key": "77",
       "name": "👒七七┃App",
