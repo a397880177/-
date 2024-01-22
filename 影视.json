@@ -22,6 +22,15 @@
       "ext": "http://api2.rinhome.com",
       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
+    {
+      "key": "AliYunPan",
+      "name": "🅱️云盘登录|T签到",
+      "type": 3,
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "b0e5ec2610794d8794d6971b06534d89"
+    },
    {
       "key": "77",
       "name": "👒七七┃App",
