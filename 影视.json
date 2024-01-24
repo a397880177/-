@@ -13,6 +13,17 @@
     }
  ],
  "sites": [
+   {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃已修复断流",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
+      "jar":"file://JS/Gtok/fan112.txt"
+    },
    {"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"360_spider","name":"😞360┃影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Kuaikan","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
