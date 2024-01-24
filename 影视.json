@@ -1,6 +1,6 @@
 {
   "wallpaper": "",
-  "spider": "https://gh.con.sh/https://github.com/a397880177/-/blob/main/CustomSpider.jar",
+  "spider": "https://github.com/a397880177/-/blob/main/custom_spider.jar",
  
      "lives": [
     {
@@ -70,7 +70,7 @@
             "type": 3,
             "playerType": "2",
             "ext": "http://api2.rinhome.com",
-            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar"
         },
         {
             "key": "77",
