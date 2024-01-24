@@ -413,75 +413,7 @@
             },
             "ext": "https://d.kstore.space/download/6296/js/310直播.js"
         },
-        {
-            "key": "csp_search_Panda_pansearch",
-            "name": "🚢┃盘搜┃网盘",
-            "type": 3,
-            "api": "csp_Panda",
-            "ext": {
-                "数组": "flex flex-col items-start&&</div></div><div",
-                "标题": "名称：&&描述：",
-                "副标题": "发布时间：&&</p>",
-                "图片": "<img src=\"&&\"",
-                "链接": "href=\"&&\"",
-                "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
-                "timeout": 30,
-                "changeable": 0,
-                "阿里token": "b0e5ec2610794d8794d6971b06534d89"
-            }
-        },
-        {
-            "key": "csp_search_Panda_盘搜",
-            "name": "🚃┃盘搜┃网盘2",
-            "type": 3,
-            "api": "csp_Panda",
-            "ext": {
-                "标题": "<span*>&&</div>",
-                "副标题": "时间:&&格式",
-                "图片": "thumb=\"&&\"",
-                "链接": "/cv/+href=\"/s/&&\"",
-                "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
-                "timeout": 30,
-                "changeable": 0,
-                "阿里token": "b0e5ec2610794d8794d6971b06534d89"
-            }
-        },
-        {
-            "key": "csp_search_Panda_找资源",
-            "name": "☠┃资源┃网盘",
-            "type": 3,
-            "api": "csp_Panda",
-            "ext": {
-                "数组": "news_text&&</li>",
-                "标题": "<h3>&&</h3>",
-                "副标题": "时间：&&</p>",
-                "图片": "https://",
-                "链接": "/+href=\"&&\"",
-                "跳转数组": "</div>*<a&&</a>",
-                "跳转链接": "https://www.aliyundrive.com/s/+aliyundrive.com/s/&&\"",
-                "搜索url": "https://zhaoziyuan.me/so?filename={wd}&page=1;;ckrS5",
-                "登录": "https://zhaoziyuan.me/logiu.html;post;username=***&password=***",
-                "timeout": 30,
-                "changeable": 0,
-                "阿里token": "b0e5ec2610794d8794d6971b06534d89"
-            }
-        },
-        {
-            "key": "csp_search_Panda_UP云搜",
-            "name": "🍒┃Up搜┃网盘",
-            "type": 3,
-            "api": "csp_UpYun",
-            "timeout": 30,
-            "changeable": 0,
-            "ext": "b0e5ec2610794d8794d6971b06534d89"
-        },
-        {
-            "key": "csp_search_Panda_易搜",
-            "name": "🐷┃易搜┃网盘",
-            "type": 3,
-            "api": "csp_YiSo",
-            "ext": "b0e5ec2610794d8794d6971b06534d89"
-        },
+       
         {
             "key": "儿童",
             "name": "📚┃儿童┃启蒙",
