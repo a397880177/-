@@ -427,7 +427,7 @@
                 "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
                 "timeout": 30,
                 "changeable": 0,
-                "阿里token": ""
+                "阿里token": "b0e5ec2610794d8794d6971b06534d89"
             }
         },
         {
@@ -443,7 +443,7 @@
                 "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
                 "timeout": 30,
                 "changeable": 0,
-                "阿里token": ""
+                "阿里token": "b0e5ec2610794d8794d6971b06534d89"
             }
         },
         {
@@ -463,7 +463,7 @@
                 "登录": "https://zhaoziyuan.me/logiu.html;post;username=***&password=***",
                 "timeout": 30,
                 "changeable": 0,
-                "阿里token": ""
+                "阿里token": "b0e5ec2610794d8794d6971b06534d89"
             }
         },
         {
@@ -473,14 +473,14 @@
             "api": "csp_UpYun",
             "timeout": 30,
             "changeable": 0,
-            "ext": ""
+            "ext": "b0e5ec2610794d8794d6971b06534d89"
         },
         {
             "key": "csp_search_Panda_易搜",
             "name": "🐷┃易搜┃网盘",
             "type": 3,
             "api": "csp_YiSo",
-            "ext": ""
+            "ext": "b0e5ec2610794d8794d6971b06534d89"
         },
         {
             "key": "儿童",
