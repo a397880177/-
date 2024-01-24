@@ -13,6 +13,43 @@
     }
  ],
  "sites": [
+   {
+    "key"："易搜”,
+"name"："易搜[SP]",
+"type"：3,
+"api"："csp_YiSo",
+"searchable":1,
+"changeable": 0,
+"ext"： "b0e5ec2610794d8794d6971b06534d89"
+},
+{
+     "key"："雲搜”，
+"name"："云搜[SP]",
+"type"：3,
+"api"："csp_UpYun",
+"searchable":1,
+"changeable": 0,
+"ext"："b0e5ec2610794d8794d6971b06534d89"
+},
+{
+    "key"：“盤拽”，
+"name"："盘搜[SP]",
+"type": 3,
+'api":"csp_PanSou"
+"searchable":1,
+"changeable": 0,
+"ext": "b0e5ec2610794d8794d6971b06534d89"
+},
+{
+    "key"：“紙條搜”，
+"name"：“小纸条[SP]",
+"type"： 3,
+"api"："csp_XiaoZhiTiao",
+"searchable": 1,
+"changeable": 0,
+"ext": "b0e5ec2610794d8794d6971b06534d89"
+},
+
        {
       "key": "荐片",
       "name": "🎬┃荐片┃影视",
