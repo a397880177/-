@@ -13,43 +13,56 @@
     }
  ],
  "sites": [
-   {
-       "key"："易搜”,
-       "name"："易搜[SP]",
-       "type"：3,
-       "api"："csp_YiSo",
-       "searchable":1,
-       "changeable": 0,
-       "ext"： "b0e5ec2610794d8794d6971b06534d89"
-       },
-       {
-       "key"："雲搜”，
-       "name"："云搜[SP]",
-       "type"：3,
-       "api："csp_UpYun",
-       "searchable":1,
-       "changeable": 0,
-       "ext"："b0e5ec2610794d8794d6971b06534d89"
-       },
-       {
-       "key"：“盤拽”，
-       "name"："盘搜[SP]",
-       "type": 3,
-       "api":"csp_PanSou"
-       "searchable":1,
-       "changeable": 0,
-       "ext": "b0e5ec2610794d8794d6971b06534d89"
-       },
-       {
-      "key"：“紙條搜”，
-      "name"：“小纸条[SP]",
-      "type"： 3,
-      "api"："csp_XiaoZhiTiao",
+{
+      "key": "YiSo",
+      "name": "😹易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "ext": "b0e5ec2610794d8794d6971b06534d89"
-        },
-
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🐺找资源┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码"
+    },
+    {
+      "key": "PanSou",
+      "name": "🦊盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "b0e5ec2610794d8794d6971b06534d89"
+    },
+    {
+      "key": "UpYun",
+      "name": "😻Up搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "b0e5ec2610794d8794d6971b06534d89"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "b0e5ec2610794d8794d6971b06534d89"
+    },
        {
       "key": "荐片",
       "name": "🎬┃荐片┃影视",
