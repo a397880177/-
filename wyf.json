@@ -24,21 +24,6 @@
       "filterable": 1,
       "ext": "./json/nm.json"
     },
-      {
-      "key": "zztong",
-      "name": "神仙影视公众号：神仙APP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "【神仙影视】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
-        "线路标题": "[替换:索索线路>>公众号神仙APP]",
-        "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
-      }
-    },
    
     {
       "key": "csp_Bili",
