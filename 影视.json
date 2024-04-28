@@ -1,39 +1,30 @@
 {
-  "wallpaper": "",
-  "spider": "https://gh.con.sh/https://github.com/a397880177/-/blob/main/custom_spider.jar",
+  “墙纸”： ””，"wallpaper": "",
+  “蜘蛛”：“https://gh.​​con.sh/https://github.com/a397880177/-/blob/main/custom_spider.jar”，"spider": "https://gh.con.sh/https://github.com/a397880177/-/blob/main/custom_spider.jar",
  
-     "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/a397880177/-/main/TV.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
- ],
-    "sites": [
+     “生活”：["lives": [
+    {{
+      “姓名”：“活着”，"name": "live",
+      “类型”：0，"type": 0,
+      “玩家类型”：1，"playerType": 1,
+      “url”：“https://gh.​​con.sh/https://raw.githubusercontent.com/a397880177/-/main/TV.txt”，"url": "https://gh.con.sh/https://raw.githubusercontent.com/a397880177/-/main/TV.txt",
+      "epg": "http://epg.112114.xyz/?ch={名称}&日期={日期}","epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      “标志”：“https://epg.112114.xyz/logo/{name}.png”"logo": "https://epg.112114.xyz/logo/{name}.png"
+    }}
+],],
+    “网站”：["sites": [
         {
-            "key": "YiSo",
-            "name": "😹易搜┃搜索",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "b0e5ec2610794d8794d6971b06534d89"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🐺找资源┃搜索",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码"
-        },
-        {
+        {{
+            "key": "Zhaozy","key": "Zhaozy",
+            "name": "🐺寻找资源┃搜索","name": "🐺找资源┃搜索",
+            “类型”：3，"type": 3,
+            "api": "csp_Zhaozy","api": "csp_Zhaozy",
+            “可搜索”：1，"searchable": 1,
+            “快速搜索”：1，"quickSearch": 1,
+            “可变”：0，"changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码""ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码"
+        },},
+        {{
             "key": "PanSou",
             "name": "🦊盘搜┃搜索",
             "type": 3,
